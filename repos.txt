@@ -1,2 +1,2 @@
-useless_repo1
-useless_repo1
+security-101-for-saas-startups
+security-guide-for-developers
